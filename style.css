@@ -1,0 +1,132 @@
+.dad {
+    width: 1500px;
+    margin: 0 auto
+}
+
+.box1 {
+    height: 60px;
+    width: auto;
+    background-color: beige;
+    display: flex;
+}
+
+.box2 {
+    height: 40px;
+    width: auto;
+    background-color: mistyrose;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.box3 {
+    height: 700px;
+    width: auto;
+    background-color: beige;
+    display: flex;
+}
+
+.box4 {
+    height: 700px;
+    width: 600px;
+
+}
+
+.box5 {
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background-color: antiquewhite
+}
+
+.box6 {
+    height: 700px;
+    width: 900px;
+
+}
+
+.box7 {
+    height: 600px;
+    width: 600px;
+    background-color: brown;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic1 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k1.jpg);
+    background-size: 200px 200px;
+}
+
+.pic2 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k2.jpg);
+    background-size: 200px 200px;
+}
+
+.pic3 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k3.jpg);
+    background-size: 200px 200px;
+}
+
+.pic4 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k4.jpg);
+    background-size: 200px 200px;
+}
+
+.pic5 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k5.jpg);
+    background-size: 200px 200px;
+}
+
+.pic6 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k6.jpg);
+    background-size: 200px 200px;
+}
+
+.pic7 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k7.jpg);
+    background-size: 200px 200px;
+}
+
+.pic8 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k8.jpg);
+    background-size: 200px 200px;
+}
+
+.pic9 {
+    height: 200px;
+    width: 200px;
+    background-image: url(k9.jpg);
+    background-size: 200px 200px;
+}
+
+input[type=text] {
+    width: 400px;
+    height: 40px;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    background-color: mistyrose
+}
